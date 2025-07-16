@@ -89,13 +89,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=havvazimra&show_icons=true&locale=en&layout=compact" alt="havvazimra" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=havvazimra&show_icons=true&locale=en" alt="havvazimra" />
-</p>
 
