@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Havva Zimra</h1>
 <h3 align="center">MCA Graduate | Full-Stack Developer | Design × Technology Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=havvazimra&label=Profile%20views&color=0e75b6&style=flat" alt="havvazimra" />
-</p>
-
 ---
 
 ## ✨ About Me
@@ -125,5 +121,9 @@ Blender (Basic 3D Modeling)
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=havvazimra&label=Profile%20views&color=0e75b6&style=flat" alt="havvazimra" />
+</p>
 
 ⭐ **“Code, create, and cultivate — bringing ideas to life through logic and design.”**
