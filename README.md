@@ -20,10 +20,6 @@ I love blending **logic, creativity, and technology**—from backend systems to 
   *MEAN stack peer-to-peer plant marketplace*  
   **Features:** Chat system, secure authentication, payment gateway integration  
 
-- **Flavour & Fusion** 🍰  
-  *Cake ordering web app with admin dashboard*  
-  **Backend:** Django  
-
 ---
 
 ## 💼 Key Projects
@@ -42,13 +38,6 @@ I love blending **logic, creativity, and technology**—from backend systems to 
   - Developed an explainable multimodal deep learning model  
   - Implemented adaptive fusion with pixel-wise confidence maps  
   - Improved IoU & Dice scores over single-modality baselines  
-
----
-
-## 🌱 Currently Learning
-- Django (Advanced)
-- Android App Development
-- Cloud Integration for Full-Stack Applications
 
 ---
 
@@ -95,14 +84,15 @@ Blender (Basic 3D Modeling)
 - 📧 **Email:** [havvazimrax@gmail.com](mailto:havvazimrax@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/havva-zimra](https://linkedin.com/in/havva-zimra)  
 - 💻 **GitHub:** [github.com/havvazimra](https://github.com/havvazimra)  
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1zvw81Zlx6KEHeOfUlFzc2OTjkq0BPfo8/view)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1ZF1C3rIYtzidJ2v2gyLkHC8_hU7HwVQT/view?usp=sharing)
 
 ---
 
 ## 🎨 Interests
 - Fine Arts (Painting, Calligraphy, Digital Illustration)
 - Graphic Design
-- Horticulture & Indoor Plant Care 🌿
+- Horticulture & Indoor Plant Care
+- Coding
 
 ---
 
