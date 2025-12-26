@@ -6,8 +6,9 @@ MCA Graduate | Full-Stack Developer | AI & ML Enthusiast | Design × Innovation
 ---
 
 ## ✨ About Me
-I’m an MCA graduate and full-stack developer who enjoys building **scalable web applications** with a strong focus on **clean UI, usability, and innovation**.  
-I love blending **logic, creativity, and technology**—from backend systems to visual design and 3D integrations.
+I’m an MCA graduate and full-stack developer with a growing interest in **AI and machine learning**, focused on building **scalable, user-centric web applications**.  
+I enjoy working across the stack—combining **clean UI design, efficient backend logic, and data-driven insights** to create practical and innovative digital solutions.
+
 
 ---
 
